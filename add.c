@@ -8,5 +8,8 @@ int main()
 	scanf("%d",&b);
 	sum=a+b;
 	printf("the sum value is:%d\n",sum);
+
+	int sub=a-b;
+	printf("the sub value is:%d\n",sub);
 	return 0;
 }
